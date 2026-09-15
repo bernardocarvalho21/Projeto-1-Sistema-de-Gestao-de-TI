@@ -40,7 +40,7 @@ O projeto também contempla recursos de **automação** e **Inteligência Artifi
 
 ### Máquinas
 
-![Maquinas](screenshots/3-maquinas.png)
+![Máquinas](screenshots/3-maquinas.png)
 
 ### Manutenção Preventiva
 
@@ -158,7 +158,7 @@ Entre as atividades envolvidas:
 
 ## 🏗️ Arquitetura
 
-A aplicação foi estruturada utilizando uma arquitetura web baseada em:
+A aplicação utiliza uma arquitetura web baseada em:
 
 ```text
 Usuário
@@ -172,11 +172,11 @@ Flask / Python
    │
    ├── Regras de negócio
    ├── Automação
-   └── Recursos de IA
+   └── Integrações
    │
    ▼
 MySQL
-
+```
 ---
 
 ## 🔒 Segurança e confidencialidade
