@@ -16,6 +16,49 @@ O projeto também contempla recursos de **automação** e **Inteligência Artifi
 
 ---
 
+## 📸 Interface do sistema
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Gestão de equipamentos
+
+![Equipamentos](screenshots/equipamentos.png)
+
+### Manutenção
+
+![Manutenção](screenshots/manutencao.png)
+
+---
+
+## 👨‍💻 Minha atuação
+
+Durante o desenvolvimento da solução, atuei na análise das necessidades do ambiente de TI e na transformação dos processos existentes em funcionalidades do sistema.
+
+Entre as atividades envolvidas:
+
+- Levantamento de necessidades junto aos usuários
+- Análise e digitalização de processos
+- Desenvolvimento utilizando Python e Flask
+- Utilização de MySQL para armazenamento das informações
+- Desenvolvimento de funcionalidades para gestão de equipamentos
+- Implementação de controles e automações
+- Desenvolvimento de dashboards e relatórios
+- Manutenção e evolução da solução
+
+---  
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## 🎯 Objetivos
 
 - Centralizar informações relacionadas à infraestrutura de TI
@@ -68,21 +111,6 @@ O projeto também contempla recursos de **automação** e **Inteligência Artifi
 ### 🤖 Automação e IA
 - Automação de atividades operacionais
 - Utilização de recursos de Inteligência Artificial em processos específicos
-
----
-
-## 🛠️ Tecnologias
-
-| Tecnologia | Utilização |
-|---|---|
-| **Python** | Desenvolvimento da aplicação |
-| **Flask** | Framework web |
-| **MySQL** | Banco de dados |
-| **HTML5** | Estrutura das páginas |
-| **CSS3** | Estilização e interface |
-| **JavaScript** | Interatividade e funcionalidades |
-| **Git** | Controle de versão |
-| **GitHub** | Versionamento e documentação |
 
 ---
 
