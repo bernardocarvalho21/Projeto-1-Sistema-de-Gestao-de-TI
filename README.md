@@ -1,4 +1,4 @@
-# 🖥️ Sistema de Gestão de TI
+# 🖥️ Sistema de Gestão de TI — Python + Flask + MySQL
 
 > Sistema web desenvolvido para centralizar e digitalizar processos de gestão de infraestrutura de TI, substituindo controles anteriormente realizados por meio de planilhas e processos manuais.
 
