@@ -26,13 +26,54 @@ O projeto também contempla recursos de **automação** e **Inteligência Artifi
 
 ![Dashboard](screenshots/2-dashboard.png)
 
-### Gestão de equipamentos
+### Máquinas
 
-![Equipamentos](screenshots/equipamentos.png)
+![Maquinas](screenshots/3-maquinas.png)
 
-### Manutenção
+### Manutenção Preventiva
 
-![Manutenção](screenshots/manutencao.png)
+![Manutencao_Preventina](screenshots/4-manutencao_preventiva.png)
+
+### Servidores
+
+![Servidores](screenshots/5-servidores.png)
+
+### Impressoras
+
+![Impressoras](screenshots/6-impressoras.png)
+
+### Patch Panel
+
+![Patch_Panel](screenshots/7-patch_panel.png)
+
+### Notas Fiscais
+
+![Notas_Fiscais](screenshots/8-notas_fiscais.png)
+
+### Histórico de Peças
+
+![Historico_de_Pecas](screenshots/9-historico_de_pecas.png)
+
+### Estoque de Peças Novas
+
+![Estoque_de_Pecas_Novas](screenshots/10-estoque_de_pecas_novas.png)
+
+### Relação de Equipamentos
+
+![Relacao_de_Equipamentos](screenshots/11-relacao_de_equipamentos.png)
+
+### Alocação Externa
+
+![Alocacao_Externa](screenshots/12-alocacao_externa.png)
+
+### Licenças Novas
+
+![Licencas_Novas](screenshots/13-licencas_novas.png)
+
+### Usuários
+
+![Usuarios](screenshots/14-usuarios.png)
+
 
 ---
 
