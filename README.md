@@ -20,7 +20,7 @@ O projeto também contempla recursos de **automação** e **Inteligência Artifi
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/2-dashboard.png)
 
 ### Gestão de equipamentos
 
