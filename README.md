@@ -18,6 +18,10 @@ O projeto também contempla recursos de **automação** e **Inteligência Artifi
 
 ## 📸 Interface do sistema
 
+### Tela de Login
+
+![Login](screenshots/1-tela_login.png)
+
 ### Dashboard
 
 ![Dashboard](screenshots/2-dashboard.png)
