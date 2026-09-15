@@ -4,6 +4,18 @@
 
 ---
 
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 ## 📌 Sobre o projeto
 
 O **Sistema de Gestão de TI** foi desenvolvido durante minha atuação profissional na área de Tecnologia da Informação, com o objetivo de centralizar informações e facilitar o gerenciamento dos recursos de TI da empresa.
@@ -94,27 +106,12 @@ Entre as atividades envolvidas:
 
 ---  
 
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ## 🎯 Objetivos
 
 - Centralizar informações relacionadas à infraestrutura de TI
-- Reduzir a dependência de planilhas e controles manuais
-- Facilitar o acompanhamento dos equipamentos
-- Organizar informações de manutenção
-- Controlar licenças de software
-- Gerenciar estoque e histórico de peças
-- Centralizar informações de servidores e equipamentos
-- Disponibilizar dashboards e relatórios
-- Automatizar processos operacionais
+- Digitalizar processos anteriormente controlados por planilhas
+- Automatizar atividades operacionais
+- Facilitar o acompanhamento através de dashboards e relatórios
 
 ---
 
@@ -179,3 +176,11 @@ Flask / Python
    │
    ▼
 MySQL
+
+---
+
+## 🔒 Segurança e confidencialidade
+
+Este projeto foi desenvolvido em ambiente corporativo. Por esse motivo, o código-fonte original, dados reais, informações de usuários, infraestrutura e demais informações confidenciais não são disponibilizados publicamente.
+
+O repositório tem como objetivo apresentar o contexto do projeto, suas funcionalidades, tecnologias utilizadas e minha experiência no desenvolvimento da solução.
